@@ -1,6 +1,5 @@
 # N11CaseLibrary
-
-N!! için geliştirilen kütüphane yönetim prokjjesi.
+N11 için geliştirilen kütüphane yönetim prokjjesi.
 
 Kullanılan teknolojiler;
 *Backend : Spring , , Maven , Unit Tests: Mockito.
